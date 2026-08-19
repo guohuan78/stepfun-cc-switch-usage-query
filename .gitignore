@@ -1,0 +1,20 @@
+# Local credentials and session material
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*token*.txt
+*cookie*.txt
+cookies*.json
+secrets*.json
+
+# Local/editor/build files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
+dist/
+build/
